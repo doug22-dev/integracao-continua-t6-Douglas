@@ -123,8 +123,6 @@ A aplicação vai iniciar no endereço <http://localhost:4200>.
   - <https://git-scm.com/downloads>
 - **Postman**
   - <https://www.postman.com/downloads/>
-  - Link para download da coleção compartilhada (contendo requisições utilizadas nas aulas): <https://api.postman.com/collections/19704449-afc96c2c-7ce9-4370-b280-30b4bf2e67a7?access_key=PMAT-01HZR284JMDFHP76NYMWK1AJCD>
-    - Para importar a coleção no Postman, clique em ```Import``` e cole o link acima.
 - **JDK 17**
   - Para verificar se o JDK está corretamente instalado e configurado, digite no prompt de comandos:
 
